@@ -13,6 +13,6 @@ Hengcan Shi is a Research Fellow at *Data Science & AI Department*, *Monash Univ
 
 ### Recent work
 
-- Language-Aware Fine-Grained Object Representation for Referring Expression Comprehension  
-  H Qiu, H Li, Q Wu, F Meng, H Shi, T Zhao, KN Ngan  
-  Proceedings of the 28th ACM International Conference on Multimedia, 4171-4180  
+- [Language-Aware Fine-Grained Object Representation for Referring Expression Comprehension](https://dl.acm.org/doi/abs/10.1145/3394171.3413850)  
+  H Qiu, H Li, Q Wu, F Meng, **H Shi**, T Zhao, KN Ngan  
+  Proceedings of the 28th ACM International Conference on Multimedia (**ACM MM**), 2020, 4171-4180  
