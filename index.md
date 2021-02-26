@@ -1,8 +1,6 @@
 ## Hengcan Shi
 
-You can use the [editor on GitHub](https://github.com/shihengcan/shihengcan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hengcan Shi is a Research Fellow at Data Science & AI Department, Monash University. Before that, he was a Senior Researcher at Tencent. He received his Ph.D. degree in computer vision from University of Electronic Science and Technology of China in 2019. His research interests include image segmentation, scene parsing, machine learning and Vision+Language. He has served as a reviewer for IEEE T-MM, T-CSVT and Neurocomputing. He was also a technical program committee member of CVPR 2021, ICME 2021, ECCV 2020 and ICME 2020.
 
 ### Markdown
 
