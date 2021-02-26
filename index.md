@@ -1,8 +1,11 @@
 ## Hengcan Shi
 
 Research Fellow
+
 Department of Data Science & AI
+
 Monash University
+
 Clayton VIC 3800
 
 Email: shihengcan AT gmail.com  or  Hengcan.Shi AT monash.edu
