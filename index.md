@@ -15,16 +15,16 @@ Hengcan Shi is a Research Fellow at *Data Science & AI Department*, *Monash Univ
 
 - [Language-Aware Fine-Grained Object Representation for Referring Expression Comprehension](https://dl.acm.org/doi/abs/10.1145/3394171.3413850)  
   H Qiu, H Li, Q Wu, F Meng, **H Shi**, T Zhao, KN Ngan  
-  **ACM MM**, 2020
+  in **ACM MM** 2020
   
 - [Query Reconstruction Network for Referring Expression Image Segmentation](https://ieeexplore.ieee.org/abstract/document/9082867)  
   **H Shi**, H Li, Q Wu, KN Ngan    
-  **T-MM**, 2020  
+  in **T-MM** 2020  
   
 - [Hierarchical context features embedding for object detection](https://ieeexplore.ieee.org/abstract/document/8979187/)  
   H Qiu, H Li, Q Wu, F Meng, L Xu, KN Ngan, **H Shi**  
-  **T-MM** 2020 
+  in **T-MM** 2020 
 
 - [Offset bin classification network for accurate object detection](https://openaccess.thecvf.com/content_CVPR_2020/html/Qiu_Offset_Bin_Classification_Network_for_Accurate_Object_Detection_CVPR_2020_paper.html)  
   H Qiu, H Li, Q Wu, **H Shi**  
-  **CVPR** 2020  
+  in **CVPR** 2020  
