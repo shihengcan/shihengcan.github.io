@@ -15,29 +15,37 @@ Hengcan Shi is a Research Fellow at *Data Science & AI Department*, *Monash Univ
 
 - [Language-Aware Fine-Grained Object Representation for Referring Expression Comprehension](https://dl.acm.org/doi/abs/10.1145/3394171.3413850)  
   H Qiu, H Li, Q Wu, F Meng, **H Shi**, T Zhao, KN Ngan  
-  in **ACM MM** 2020
+  ACM International Conference on Multimedia (**ACM MM**), 2020
   
 - [Query Reconstruction Network for Referring Expression Image Segmentation](https://ieeexplore.ieee.org/abstract/document/9082867)  
   **H Shi**, H Li, Q Wu, KN Ngan    
-  in **T-MM** 2020  
+  IEEE Transactions on Multimedia (**T-MM**), 2020  
   
 - [Hierarchical context features embedding for object detection](https://ieeexplore.ieee.org/abstract/document/8979187/)  
   H Qiu, H Li, Q Wu, F Meng, L Xu, KN Ngan, **H Shi**  
-  in **T-MM** 2020 
+  IEEE Transactions on Multimedia (**T-MM**), 2020 
 
 - [Offset bin classification network for accurate object detection](https://openaccess.thecvf.com/content_CVPR_2020/html/Qiu_Offset_Bin_Classification_Network_for_Accurate_Object_Detection_CVPR_2020_paper.html)  
   H Qiu, H Li, Q Wu, **H Shi**  
-  in **CVPR** 2020  
+  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020  
   
 - [Scene parsing via integrated classification model and variance-based regularization](https://openaccess.thecvf.com/content_CVPR_2019/html/Shi_Scene_Parsing_via_Integrated_Classification_Model_and_Variance-Based_Regularization_CVPR_2019_paper.html)  
   **H Shi**, H Li, Q Wu, Z Song  
-  in **CVPR** 2019 
+  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019 
   [[code]](https://github.com/shihengcan/ICM-matcaffe)  
   
 - [A2RMNet: Adaptively aspect ratio multi-scale network for object detection in remote sensing images](https://www.mdpi.com/2072-4292/11/13/1594)
   H Qiu, H Li, Q Wu, F Meng, KN Ngan, **H Shi**  
-  in Remote Sensing 2019
+  Remote Sensing, 2019
   
-- [Boosting scene parsing performance via reliable scale prediction](https://dl.acm.org/doi/abs/10.1145/3240508.3240657)
-  **H Shi**, H Li, Q Wu, F Meng, KN Ngan
-  in **ACM MM** 2018 (**Oral**)
+- [Boosting scene parsing performance via reliable scale prediction](https://dl.acm.org/doi/abs/10.1145/3240508.3240657)  
+  **H Shi**, H Li, Q Wu, F Meng, KN Ngan  
+  ACM International Conference on Multimedia (**ACM MM**), 2018 (**Oral**)  
+  
+- [Key-word-aware network for referring expression image segmentation](https://openaccess.thecvf.com/content_ECCV_2018/html/Hengcan_Shi_Key-Word-Aware_Network_for_ECCV_2018_paper.html)  
+  **H Shi**, H Li, F Meng, Q Wu  
+  European Conference on Computer Vision (**ECCV**), 2018
+  
+- [Hierarchical parsing net: Semantic scene parsing from global scene to objects](https://ieeexplore.ieee.org/abstract/document/8306891/)  
+  **H Shi**, H Li, F Meng, Q Wu, L Xu, KN Ngan
+  IEEE Transactions on Multimedia (**T-MM**), 2018
