@@ -28,3 +28,7 @@ Hengcan Shi is a Research Fellow at *Data Science & AI Department*, *Monash Univ
 - [Offset bin classification network for accurate object detection](https://openaccess.thecvf.com/content_CVPR_2020/html/Qiu_Offset_Bin_Classification_Network_for_Accurate_Object_Detection_CVPR_2020_paper.html)  
   H Qiu, H Li, Q Wu, **H Shi**  
   in **CVPR** 2020  
+  
+- [Scene parsing via integrated classification model and variance-based regularization](https://openaccess.thecvf.com/content_CVPR_2019/html/Shi_Scene_Parsing_via_Integrated_Classification_Model_and_Variance-Based_Regularization_CVPR_2019_paper.html)  
+  **H Shi**, H Li, Q Wu, Z Song  
+  in **CVPR** 2019 [code](https://github.com/shihengcan/ICM-matcaffe)
