@@ -1,6 +1,6 @@
 ## Hengcan Shi
 
-![photo] https://github.com/shihengcan/shihengcan.github.io/blob/main/Photo_HengcanShi.png
+![photo](https://github.com/shihengcan/shihengcan.github.io/blob/main/Photo_HengcanShi.png)
 
 **Research Fellow**  
 Department of Data Science & AI  
