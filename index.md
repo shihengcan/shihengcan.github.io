@@ -25,7 +25,7 @@ Hengcan Shi is a Research Fellow at *Data Science & AI Department*, *Monash Univ
   H Qiu, H Li, Q Wu, F Meng, L Xu, KN Ngan, **H Shi**  
   IEEE Transactions on Multimedia (**T-MM**), 2020 
 
-- [Offset bin classification network for accurate object detection](https://openaccess.thecvf.com/content_CVPR_2020/html/Qiu_Offset_Bin_Classification_Network_for_Accurate_Object_Detection_CVPR_2020_paper.html)  
+- [Offset bin classification network for accurate object detection](https://openaccess.thecvf.com/content_CVPR_2020/html/Qiu_Offset_Bin_Classification_Network_for_Accurate_Object_Detection_CVPR_2020_paper.html)    
   H Qiu, H Li, Q Wu, **H Shi**  
   IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020  
   
