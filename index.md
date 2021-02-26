@@ -46,6 +46,6 @@ Hengcan Shi is a Research Fellow at *Data Science & AI Department*, *Monash Univ
   **H Shi**, H Li, F Meng, Q Wu  
   European Conference on Computer Vision (**ECCV**), 2018
   
-- [Hierarchical parsing net: Semantic scene parsing from global scene to objects](https://ieeexplore.ieee.org/abstract/document/8306891/)  
-  **H Shi**, H Li, F Meng, Q Wu, L Xu, KN Ngan
+- [Hierarchical parsing net: Semantic scene parsing from global scene to objects](https://ieeexplore.ieee.org/abstract/document/8306891/)    
+  **H Shi**, H Li, F Meng, Q Wu, L Xu, KN Ngan  
   IEEE Transactions on Multimedia (**T-MM**), 2018
