@@ -31,7 +31,7 @@ Hengcan Shi is a Research Fellow at *Data Science & AI Department*, *Monash Univ
   
 - [Scene parsing via integrated classification model and variance-based regularization](https://openaccess.thecvf.com/content_CVPR_2019/html/Shi_Scene_Parsing_via_Integrated_Classification_Model_and_Variance-Based_Regularization_CVPR_2019_paper.html)  
   **H Shi**, H Li, Q Wu, Z Song  
-  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019 
+  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019   
   [[code]](https://github.com/shihengcan/ICM-matcaffe)  
   
 - [A2RMNet: Adaptively aspect ratio multi-scale network for object detection in remote sensing images](https://www.mdpi.com/2072-4292/11/13/1594)  
