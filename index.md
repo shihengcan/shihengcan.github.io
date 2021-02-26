@@ -34,8 +34,8 @@ Hengcan Shi is a Research Fellow at *Data Science & AI Department*, *Monash Univ
   IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019 
   [[code]](https://github.com/shihengcan/ICM-matcaffe)  
   
-- [A2RMNet: Adaptively aspect ratio multi-scale network for object detection in remote sensing images](https://www.mdpi.com/2072-4292/11/13/1594)
-  H Qiu, H Li, Q Wu, F Meng, KN Ngan, **H Shi**  
+- [A2RMNet: Adaptively aspect ratio multi-scale network for object detection in remote sensing images](https://www.mdpi.com/2072-4292/11/13/1594)  
+  H Qiu, H Li, Q Wu, F Meng, KN Ngan, **H Shi**    
   Remote Sensing, 2019
   
 - [Boosting scene parsing performance via reliable scale prediction](https://dl.acm.org/doi/abs/10.1145/3240508.3240657)  
