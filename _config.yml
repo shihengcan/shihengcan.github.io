@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 logo: biophoto.JPG
 title: Hengcan Shi
 description: Research Fellow, Monash University
-show_downloads: false
+show_downloads: true
 google_analytics:
