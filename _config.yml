@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 logo: Zeke_hobbs_AHDB_CON.png
 title: Zeke Hobbs
 description: PhD Student, Dept. of Computer Science, University of Sheffield, UK
-show_downloads: true
+show_downloads: false
 google_analytics:
