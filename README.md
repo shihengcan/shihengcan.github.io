@@ -87,12 +87,15 @@ Hengcan Shi is a Research Fellow at *Data Science & AI Department*, *Monash Univ
 
 ****
 ###  Students
-| Institution        |   Degree    | Name               | Career development after graduation |
-|:-------------------|:-------------|:------------------|:----------------------------------|
-| Monash University  | Ph.D.        | Renuka Sharma     | Postdoc at CSIRO |
-| Monash University  | Ph.D.        | Dao Duy Son       |         -         |
-| Monash University  | Ph.D.        | Duy Tho Le        |         -         |
-| Monash University  | Ph.D.        | Jiateng Liu       |         -          |
-| Monash University  | Master       | Duy Tho Le        | Ph.D. student at Monash University  |
-| Monash University  | Bachelor     | Alistair McCutcheon |               -                    |
+#### 2023
+Monash University, Ph.D., Dao Duy Son  
+Monash University, Ph.D., Duy Tho Le  
+Monash University, Ph.D., Jiateng Liu  
+
+#### 2022
+Monash University, Ph.D., Renuka Sharma (Graduated --> Postdoc at CSIRO)  
+Monash University, Bachelor, Alistair McCutcheon   
+
+#### 2021
+Monash University, Master, Duy Tho Le (Graduated --> Ph.D. student at Monash University)  
 
