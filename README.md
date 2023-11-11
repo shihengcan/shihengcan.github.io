@@ -1,8 +1,6 @@
-###  Background
+###  Bio
 
-Currently a PhD Student studying under the supervision of [Dr. Michael Mangan](https://michaelmangan.github.io/) as part of the [ManganLab Biorobotics Research Group](https://manganlab.github.io/) with frunding from [AHDB](https://ahdb.org.uk/)  
-
-Focusing on creating a general soft fruit detector for automated farming. Specifically using Drosophila Suzukii as a biological model for creating new novel cameras.
+Hengcan Shi is a Research Fellow at *Data Science & AI Department*, *Monash University*. Before that, he was a Senior Researcher at *Tencent*. He received his Ph.D. degree in computer vision from *University of Electronic Science and Technology of China* in 2020. His research interests include image segmentation, object detection, machine learning and Vision+Language. He has served as reviewer for *IEEE T-PAMI*, *IJCV*, *T-MM*, *T-CSVT* and *TIE*. He is the Web Chair of *ACM MM 2024* and PC member of *CVPR*, *ICCV*, *ECCV*, *AAAI*, *IJCAI*, *ICLR*, *NeurIPS* and *ICME*.
 
 ###  Links
 
