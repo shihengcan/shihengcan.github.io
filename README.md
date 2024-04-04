@@ -8,20 +8,20 @@ Hengcan Shi is an Associate Professor at *the College of Electrical and Informat
 ****
 ###  Publications (Selected)
 
->JRDB-PanoTrack: An Open-world Panoptic Segmentation and Tracking Robotic Dataset in Crowded Human Environments 
->Duy-Tho Le, Chenhui Gou, Stavya Datta, **Hengcan Shi**, Ian Reid, Jianfei Cai, Hamid Rezatofighi
+>JRDB-PanoTrack: An Open-world Panoptic Segmentation and Tracking Robotic Dataset in Crowded Human Environments  
+>Duy-Tho Le, Chenhui Gou, Stavya Datta, **Hengcan Shi**, Ian Reid, Jianfei Cai, Hamid Rezatofighi   
 >**CVPR** 2024
 
->Unified open-vocabulary dense visual prediction 
->**Hengcan Shi**, Munawar Hayat, Jianfei Cai
+>Unified open-vocabulary dense visual prediction   
+>**Hengcan Shi**, Munawar Hayat, Jianfei Cai   
 >**TMM** 2024
 
 >Transformer scale gate for semantic segmentation  
 >**Hengcan Shi**, Munawar Hayat, Jianfei Cai  
 >**CVPR** 2023
 
->Class Enhancement Losses with Pseudo Labels for Open-Vocabulary Semantic Segmentation 
->Son D Dao, **Hengcan Shi**, Dinh Phung, Jianfei Cai  
+>Class Enhancement Losses with Pseudo Labels for Open-Vocabulary Semantic Segmentation   
+>Son D Dao, **Hengcan Shi**, Dinh Phung, Jianfei Cai    
 >**TMM** 2023
 
 >Class Enhancement Losses with Pseudo Labels for Open-Vocabulary Semantic Segmentation   
@@ -36,8 +36,8 @@ Hengcan Shi is an Associate Professor at *the College of Electrical and Informat
 >**Hengcan Shi**, Munawar Hayat, Yicheng Wu, Jianfei Cai  
 >**CVPR** 2022
 
->Accurate and real-time 3D pedestrian detection using an efficient attentive pillar network 
->Duy Tho Le, **Hengcan Shi**, Hamid Rezatofighi, Jianfei Cai 
+>Accurate and real-time 3D pedestrian detection using an efficient attentive pillar network   
+>Duy Tho Le, **Hengcan Shi**, Hamid Rezatofighi, Jianfei Cai   
 >**RA-L** 2022
 
 >Deep music retrieval for fine-grained videos by exploiting cross-modal-encoded voice-overs   
@@ -81,12 +81,13 @@ Hengcan Shi is an Associate Professor at *the College of Electrical and Informat
 * China Society of Image and Graphics
 
 #### Program Committee Member
-* ACM MM 2024 (Web Chair)
+* ACM MM 2024 (Web Chair, Area Chair)
 * CVPR 2021, 2023, 2024
 * ICCV 2023
 * ECCV 2020, 2022
 * AAAI 2021, 2022, 2023, 2024
 * IJCAI 2021, 2022, 2023, 2024
+* ICML 2024
 * NeurIPS 2022, 2023
 * ICLR 2023, 2024
 * ICME 2020, 2021
@@ -104,14 +105,14 @@ Hengcan Shi is an Associate Professor at *the College of Electrical and Informat
 ****
 ###  Students
 #### 2023
-Monash University, Ph.D., Dao Duy Son  
 Monash University, Ph.D., Duy Tho Le  
 Monash University, Ph.D., Jiateng Liu  
+Monash University, Ph.D., Dao Duy Son (Graduated --> Postdoc at RMIT)  
 
 #### 2022
 Monash University, Ph.D., Renuka Sharma (Graduated --> Postdoc at CSIRO)  
-Monash University, Bachelor, Alistair McCutcheon   
+Monash University, Bachelor, Alistair McCutcheon (Graduated --> Software Engineer at Arkeus) 
 
 #### 2021
-Monash University, Master, Duy Tho Le (Graduated --> Ph.D. student at Monash University)  
+Monash University, Master, Duy Tho Le (Graduated --> Ph.D. Candidate at Monash University)  
 
