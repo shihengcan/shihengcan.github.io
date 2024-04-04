@@ -1,6 +1,6 @@
 ###  Biography
 
-Hengcan Shi is a Research Fellow at *Data Science & AI Department*, *Monash University*. Before that, he was a Senior Researcher at *Tencent*. He received his Ph.D. degree in computer vision from *University of Electronic Science and Technology of China* in 2020. His research interests include image segmentation, object detection, machine learning and Vision+Language. He has served as reviewer for *IEEE T-PAMI*, *IJCV*, *T-MM*, *T-CSVT* and *TIE*. He is the Web Chair of *ACM MM 2024* and PC member of *CVPR*, *ICCV*, *ECCV*, *AAAI*, *IJCAI*, *ICLR*, *NeurIPS* and *ICME*.
+Hengcan Shi is an Associate Professor at *the College of Electrical and Information Engineering*, *Hunan University*. Before that, he was a Research Fellow at *Data Science & AI Department*, *Monash University*， and a Senior Researcher at *Tencent*. He received his Ph.D. degree in computer vision from *University of Electronic Science and Technology of China* in 2020. His research interests include image segmentation, object detection, machine learning and Vision+Language. He has served as reviewer for *IEEE T-PAMI*, *IJCV*, *T-MM*, *T-CSVT* and *TIE*. He is the Web Chair and Area Chair of *ACM MM 2024* and PC member of *CVPR*, *ICCV*, *ECCV*, *AAAI*, *IJCAI*, *ICML* *ICLR* and *NeurIPS*.
 
 ****
 ###  News
@@ -8,9 +8,21 @@ Hengcan Shi is a Research Fellow at *Data Science & AI Department*, *Monash Univ
 ****
 ###  Publications (Selected)
 
+>JRDB-PanoTrack: An Open-world Panoptic Segmentation and Tracking Robotic Dataset in Crowded Human Environments 
+>Duy-Tho Le, Chenhui Gou, Stavya Datta, **Hengcan Shi**, Ian Reid, Jianfei Cai, Hamid Rezatofighi
+>**CVPR** 2024
+
+>Unified open-vocabulary dense visual prediction 
+>**Hengcan Shi**, Munawar Hayat, Jianfei Cai
+>**TMM** 2024
+
 >Transformer scale gate for semantic segmentation  
 >**Hengcan Shi**, Munawar Hayat, Jianfei Cai  
 >**CVPR** 2023
+
+>Class Enhancement Losses with Pseudo Labels for Open-Vocabulary Semantic Segmentation 
+>Son D Dao, **Hengcan Shi**, Dinh Phung, Jianfei Cai  
+>**TMM** 2023
 
 >Class Enhancement Losses with Pseudo Labels for Open-Vocabulary Semantic Segmentation   
 >**Hengcan Shi**, Munawar Hayat, Jianfei Cai  
@@ -23,6 +35,10 @@ Hengcan Shi is a Research Fellow at *Data Science & AI Department*, *Monash Univ
 >Proposalclip: Unsupervised open-category object proposal generation via exploiting clip cues  
 >**Hengcan Shi**, Munawar Hayat, Yicheng Wu, Jianfei Cai  
 >**CVPR** 2022
+
+>Accurate and real-time 3D pedestrian detection using an efficient attentive pillar network 
+>Duy Tho Le, **Hengcan Shi**, Hamid Rezatofighi, Jianfei Cai 
+>**RA-L** 2022
 
 >Deep music retrieval for fine-grained videos by exploiting cross-modal-encoded voice-overs   
 >Tingtian Li, Zixun Sun, Haoruo Zhang, Jin Li, Ziming Wu, Hui Zhan, Yipeng Yu, **Hengcan Shi**  
