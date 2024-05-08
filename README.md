@@ -84,13 +84,14 @@ Hengcan Shi is an Associate Professor at *the College of Electrical and Informat
 * ACM MM 2024 (Web Chair, Area Chair)
 * CVPR 2021, 2023, 2024
 * ICCV 2023
-* ECCV 2020, 2022
+* ECCV 2020, 2022, 2024
 * AAAI 2021, 2022, 2023, 2024
 * IJCAI 2021, 2022, 2023, 2024
 * ICML 2024
 * NeurIPS 2022, 2023
 * ICLR 2023, 2024
 * ICME 2020, 2021
+* IROS 2024
 
 #### Journal Reviewer
 * IEEE TPAMI
@@ -104,6 +105,10 @@ Hengcan Shi is an Associate Professor at *the College of Electrical and Informat
 
 ****
 ###  Students
+#### 2024
+Monash University, Ph.D., Chenhui Gou  
+Monash University, Ph.D., Ziyu Ma  
+
 #### 2023
 Monash University, Ph.D., Duy Tho Le  
 Monash University, Ph.D., Jiateng Liu  
