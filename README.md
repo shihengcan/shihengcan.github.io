@@ -96,10 +96,11 @@ Hengcan Shi is an Associate Professor at *the College of Electrical and Informat
 * AAAI 2021, 2022, 2023, 2024
 * IJCAI 2021, 2022, 2023, 2024
 * ICML 2024
-* NeurIPS 2022, 2023
+* NeurIPS 2022, 2023, 2024
 * ICLR 2023, 2024
 * ICME 2020, 2021
 * IROS 2024
+* ACL 2024
 
 #### Journal Reviewer
 * IEEE TPAMI
