@@ -8,9 +8,17 @@ Hengcan Shi is an Associate Professor at *the College of Electrical and Informat
 ****
 ###  Publications (Selected)
 
+>LLMFormer: Large Language Model for Open-Vocabulary Semantic Segmentation   
+>**Hengcan Shi**, Son Duy Dao, Jianfei Cai   
+>**IJCV** 2024 
+
+>DifFUSER: Diffusion Model for Robust Multi-Sensor Fusion in 3D Object Detection and BEV Segmentation   
+>Duy-Tho Le, **Hengcan Shi**, Jianfei Cai, Hamid Rezatofighi   
+>**ECCV** 2024 
+
 >JRDB-PanoTrack: An Open-world Panoptic Segmentation and Tracking Robotic Dataset in Crowded Human Environments  
 >Duy-Tho Le, Chenhui Gou, Stavya Datta, **Hengcan Shi**, Ian Reid, Jianfei Cai, Hamid Rezatofighi   
->**CVPR** 2024
+>**CVPR** 2024 
 
 >Unified open-vocabulary dense visual prediction   
 >**Hengcan Shi**, Munawar Hayat, Jianfei Cai   
