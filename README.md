@@ -84,23 +84,25 @@ Hengcan Shi is an Associate Professor at *the College of Electrical and Informat
 ****
 ###  Professional Activities (Selected)
 #### Professional Memberships and Service
-* The Institute of Electrical and Electronics Engineers
-* The Association for Computing Machinery
-* China Society of Image and Graphics
+* IEEE
+* ACM
+* CSIG
+* CAAI
 
 #### Program Committee Member
 * ACM MM 2024 (Web Chair, Area Chair)
 * CVPR 2021, 2023, 2024
 * ICCV 2023
 * ECCV 2020, 2022, 2024
-* AAAI 2021, 2022, 2023, 2024
+* AAAI 2021, 2022, 2023, 2024, 2025
 * IJCAI 2021, 2022, 2023, 2024
 * ICML 2024
-* NeurIPS 2022, 2023, 2024
-* ICLR 2023, 2024
+* NeurIPS 2022, 2023, 2024, 2025
+* ICLR 2023, 2024, 2025
 * ICME 2020, 2021
 * IROS 2024
 * ACL 2024
+* AISTATS 2025
 
 #### Journal Reviewer
 * IEEE TPAMI
@@ -115,6 +117,8 @@ Hengcan Shi is an Associate Professor at *the College of Electrical and Informat
 ****
 ###  Students
 #### 2024
+Hunan University, Bachelor, Haiwen Liang
+Hunan University, Master, Wen Liu
 Monash University, Ph.D., Chenhui Gou  
 Monash University, Ph.D., Ziyu Ma  
 
