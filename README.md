@@ -117,10 +117,18 @@ Hengcan Shi is an Associate Professor at *the College of Electrical and Informat
 ****
 ###  Students
 #### 2024
-Hunan University, Bachelor, Haiwen Liang 
-Hunan University, Master, Wen Liu 
 Monash University, Ph.D., Chenhui Gou  
 Monash University, Ph.D., Ziyu Ma  
+Hunan University, Master, Wen Liu  
+Hunan University, Bachelor, Haiwen Liang  
+Hunan University, Bachelor, Huihan Zhang  
+Hunan University, Bachelor, Kezhou Chen   
+Hunan University, Bachelor, Zixuan Zhao  
+Hunan University, Bachelor, Lu Liu  
+Hunan University, Bachelor, Xuning Yang  
+Hunan University, Bachelor, Ruiqi Zhang  
+Hunan University, Bachelor, Kerong Li  
+Hunan University, Bachelor, Hong Yin  
 
 #### 2023
 Monash University, Ph.D., Duy Tho Le  
