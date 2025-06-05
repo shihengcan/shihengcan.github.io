@@ -1,6 +1,6 @@
 ###  Biography
 
-Hengcan Shi is an Associate Professor at *the College of Electrical and Information Engineering*, *Hunan University*. Before that, he was a Research Fellow at *Data Science & AI Department*, *Monash University*， and a Senior Researcher at *Tencent*. He received his Ph.D. degree in computer vision from *University of Electronic Science and Technology of China* in 2020. His research interests include image segmentation, object detection, machine learning and Vision+Language. He has served as reviewer for *IEEE T-PAMI*, *IJCV*, *T-MM*, *T-CSVT* and *TIE*. He is the Web Chair and Area Chair of *ACM MM 2024* and PC member of *CVPR*, *ICCV*, *ECCV*, *AAAI*, *IJCAI*, *ICML* *ICLR* and *NeurIPS*.
+Hengcan Shi is an Associate Professor at *the College of Electrical and Information Engineering*, *Hunan University*. Before that, he was a Research Fellow at *Data Science & AI Department*, *Monash University*， and a Senior Researcher at *Tencent*. He received his Ph.D. degree in computer vision from *University of Electronic Science and Technology of China* in 2020. His research interests include image segmentation, object detection, machine learning and Vision+Language. He has served as reviewer for *IEEE T-PAMI*, *IJCV*, *T-MM*, *T-CSVT* and *TIE*. He is the Web Chair and Area Chair of *ACM MM* and PC member of *CVPR*, *ICCV*, *ECCV*, *AAAI*, *IJCAI*, *ICML* *ICLR* and *NeurIPS*.
 
 ****
 ###  News
@@ -90,7 +90,7 @@ Hengcan Shi is an Associate Professor at *the College of Electrical and Informat
 * CAAI
 
 #### Program Committee Member
-* ACM MM 2024 (Web Chair, Area Chair)
+* ACM MM 2024, 2025 (Web Chair, Area Chair)
 * CVPR 2021, 2023, 2024
 * ICCV 2023
 * ECCV 2020, 2022, 2024
@@ -113,34 +113,4 @@ Hengcan Shi is an Associate Professor at *the College of Electrical and Informat
 * Pattern Recognition
 * Neurocomputing
 * Remote Sensing
-
-
-
-****
-###  Students
-#### 2024
-Monash University, Ph.D., Chenhui Gou  
-Monash University, Ph.D., Ziyu Ma  
-Hunan University, Master, Wen Liu  
-Hunan University, Bachelor, Haiwen Liang  
-Hunan University, Bachelor, Huihan Zhang  
-Hunan University, Bachelor, Kezhou Chen   
-Hunan University, Bachelor, Zixuan Zhao  
-Hunan University, Bachelor, Lu Liu  
-Hunan University, Bachelor, Xuning Yang  
-Hunan University, Bachelor, Ruiqi Zhang  
-Hunan University, Bachelor, Kerong Li  
-Hunan University, Bachelor, Hong Yin  
-
-#### 2023
-Monash University, Ph.D., Duy Tho Le  
-Monash University, Ph.D., Jiateng Liu  
-Monash University, Ph.D., Dao Duy Son (Graduated --> Postdoc at RMIT)  
-
-#### 2022
-Monash University, Ph.D., Renuka Sharma (Graduated --> Postdoc at CSIRO)  
-Monash University, Bachelor, Alistair McCutcheon (Graduated --> Software Engineer at Arkeus) 
-
-#### 2021
-Monash University, Master, Duy Tho Le (Graduated --> Ph.D. Candidate at Monash University)  
 
