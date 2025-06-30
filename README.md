@@ -1,6 +1,8 @@
 ###  Biography
 
-Hengcan Shi is an Associate Professor at *the College of Electrical and Information Engineering*, *Hunan University*. Before that, he was a Research Fellow at *Data Science & AI Department*, *Monash University*， and a Senior Researcher at *Tencent*. He received his Ph.D. degree in computer vision from *University of Electronic Science and Technology of China* in 2020. His research interests include image segmentation, object detection, machine learning and Vision+Language. He has served as reviewer for *IEEE T-PAMI*, *IJCV*, *T-MM*, *T-CSVT* and *TIE*. He is the Web Chair and Area Chair of *ACM MM* and PC member of *CVPR*, *ICCV*, *ECCV*, *AAAI*, *IJCAI*, *ICML* *ICLR* and *NeurIPS*.
+Hengcan Shi is an Associate Professor at *the College of Electrical and Information Engineering*, *Hunan University*. Before that, he was a Research Fellow at *Data Science & AI Department*, *Monash University*. <!-- and a Senior Researcher at *Tencent*. --> He received his Ph.D. degree in computer vision from *University of Electronic Science and Technology of China* in 2020. His research interests include image segmentation, object detection, machine learning and Vision+Language. He has served as reviewer for *IEEE T-PAMI*, *IJCV*, *T-MM*, *T-CSVT* and *TIE*. He is the Web Chair and Area Chair of *ACM MM* and PC member of *CVPR*, *ICCV*, *ECCV*, *AAAI*, *IJCAI*, *ICML* *ICLR* and *NeurIPS*.
+
+
 
 ****
 ###  News
@@ -88,6 +90,7 @@ Hengcan Shi is an Associate Professor at *the College of Electrical and Informat
 * ACM
 * CSIG
 * CAAI
+* CAA
 
 #### Program Committee Member
 * ACM MM 2024, 2025 (Web Chair, Area Chair)
@@ -110,6 +113,7 @@ Hengcan Shi is an Associate Professor at *the College of Electrical and Informat
 * IEEE TMM
 * IEEE TCSVT
 * IEEE TIE
+* IEEE TNNLS
 * Pattern Recognition
 * Neurocomputing
 * Remote Sensing
