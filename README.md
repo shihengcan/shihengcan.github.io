@@ -31,7 +31,7 @@ Hengcan Shi is an Associate Professor at *the College of Electrical and Informat
 >**TMM** 2024
 
 >CA-OVS: Cluster and Adapt Mask Proposals for Open-Vocabulary Semantic Segmentation   
->on Duy Dao, **Hengcan Shi**, Dinh Q Phung, Jianfei Cai   
+>Son Duy Dao, **Hengcan Shi**, Dinh Q Phung, Jianfei Cai   
 >**ACMMM Asia** 2024 
 
 >Transformer scale gate for semantic segmentation  
