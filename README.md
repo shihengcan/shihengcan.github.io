@@ -1,6 +1,6 @@
 ###  Biography
 
-Hengcan Shi is an Associate Professor at *the College of Electrical and Information Engineering*, *Hunan University*. Before that, he was a Research Fellow at *Data Science & AI Department*, *Monash University*. <!-- and a Senior Researcher at *Tencent*. --> He received his Ph.D. degree in computer vision from *University of Electronic Science and Technology of China* in 2020. His research interests include image segmentation, object detection, machine learning and Vision+Language. He has served as reviewer for *IEEE T-PAMI*, *IJCV*, *T-MM*, *T-CSVT* and *TIE*. He is the Web Chair and Area Chair of *ACM MM* and PC member of *CVPR*, *ICCV*, *ECCV*, *AAAI*, *IJCAI*, *ICML* *ICLR* and *NeurIPS*.
+Hengcan Shi is an Associate Professor at *the School of Artificial Intelligence and Robotics*, *Hunan University*. Before that, he was an Associate Professor at *the College of Electrical and Information Engineering*, *Hunan University*, and a Research Fellow at * the Department of Data Science & AI*, *Monash University*. <!-- and a Senior Researcher at *Tencent*. --> He received his Ph.D. degree in computer vision from *University of Electronic Science and Technology of China* in 2019. His research interests include image segmentation, object detection, robotic visual perception, and Vision+Language. He has served as reviewer for *IEEE T-PAMI*, *IJCV*, *T-MM*, *T-CSVT* and *TIE*. He is the Web Chair and Area Chair of *ACM MM* and PC member of *CVPR*, *ICCV*, *ECCV*, *AAAI*, *IJCAI*, *ICML* *ICLR* and *NeurIPS*.
 
 
 
@@ -12,7 +12,11 @@ Hengcan Shi is an Associate Professor at *the College of Electrical and Informat
 
 >LLMFormer: Large Language Model for Open-Vocabulary Semantic Segmentation   
 >**Hengcan Shi**, Son Duy Dao, Jianfei Cai   
->**IJCV** 2024 
+>**IJCV** 2025
+
+>Drvideo: Document retrieval based long video understandings  
+>Ziyu Ma, Chenhui Gou, **Hengcan Shi**, Bin Sun, Shutao Li, Hamid Rezatofighi, Jianfei Cai   
+>**CVPR** 2025 
 
 >DifFUSER: Diffusion Model for Robust Multi-Sensor Fusion in 3D Object Detection and BEV Segmentation   
 >Duy-Tho Le, **Hengcan Shi**, Jianfei Cai, Hamid Rezatofighi   
@@ -25,6 +29,10 @@ Hengcan Shi is an Associate Professor at *the College of Electrical and Informat
 >Unified open-vocabulary dense visual prediction   
 >**Hengcan Shi**, Munawar Hayat, Jianfei Cai   
 >**TMM** 2024
+
+>CA-OVS: Cluster and Adapt Mask Proposals for Open-Vocabulary Semantic Segmentation   
+>on Duy Dao, **Hengcan Shi**, Dinh Q Phung, Jianfei Cai   
+>**ACMMM Asia** 2024 
 
 >Transformer scale gate for semantic segmentation  
 >**Hengcan Shi**, Munawar Hayat, Jianfei Cai  
@@ -97,13 +105,14 @@ Hengcan Shi is an Associate Professor at *the College of Electrical and Informat
 * CVPR 2021, 2023, 2024
 * ICCV 2023
 * ECCV 2020, 2022, 2024
-* AAAI 2021, 2022, 2023, 2024, 2025
+* AAAI 2021, 2022, 2023, 2024, 2025, 2026
 * IJCAI 2021, 2022, 2023, 2024, 2025
 * ICML 2024, 2025 
 * NeurIPS 2022, 2023, 2024, 2025
 * ICLR 2023, 2024, 2025
 * ICME 2020, 2021
 * IROS 2024
+* ICRA 2024
 * ACL 2024
 * AISTATS 2025
 
@@ -115,6 +124,4 @@ Hengcan Shi is an Associate Professor at *the College of Electrical and Informat
 * IEEE TIE
 * IEEE TNNLS
 * Pattern Recognition
-* Neurocomputing
-* Remote Sensing
 
