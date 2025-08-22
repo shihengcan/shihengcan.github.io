@@ -114,7 +114,7 @@ Hengcan Shi is an Associate Professor at *the College of Electrical and Informat
 * IROS 2024
 * ICRA 2024
 * ACL 2024
-* AISTATS 2025
+* AISTATS 2025, 2026
 
 #### Journal Reviewer
 * IEEE TPAMI
