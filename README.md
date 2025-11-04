@@ -19,7 +19,7 @@ Hengcan Shi is an Associate Professor at *the College of Electrical and Informat
 >**ACMMM** 2025
 
 >New Multiple Sclerosis Lesion Segmentation via Calibrated Inter-patch Blending   
->Jin Ye, Son Duy Dao, Yicheng Wu, Yasmeen George, Thanh Nguyen-Duc, Daniel F Schmidt, Hengcan Shi, Winston Chong, Jianfei Cai   
+>Jin Ye, Son Duy Dao, Yicheng Wu, Yasmeen George, Thanh Nguyen-Duc, Daniel F Schmidt, **Hengcan Shi**, Winston Chong, Jianfei Cai   
 >**MICCAI** 2025
 
 >DifFUSER: Diffusion Model for Robust Multi-Sensor Fusion in 3D Object Detection and BEV Segmentation   
