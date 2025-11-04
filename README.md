@@ -3,10 +3,6 @@
 Hengcan Shi is an Associate Professor at *the College of Electrical and Information Engineering*, *Hunan University*. Before that, he was a Research Fellow at *the Department of Data Science & AI*, *Monash University*. <!-- Hengcan Shi is an Associate Professor at *the School of Artificial Intelligence and Robotics*, *Hunan University*. Before that, he was an Associate Professor at *the College of Electrical and Information Engineering*, *Hunan University*, and a Research Fellow at *the Department of Data Science & AI*, *Monash University*. --><!-- and a Senior Researcher at *Tencent*. --> He received his Ph.D. degree in computer vision from *University of Electronic Science and Technology of China* in 2019. His research interests include image segmentation, object detection, robotic visual perception, and Vision+Language. He has served as reviewer for *IEEE T-PAMI*, *IJCV*, *T-MM*, *T-CSVT* and *TIE*. He is the Web Chair and Area Chair of *ACM MM* and PC member of *CVPR*, *ICCV*, *ECCV*, *AAAI*, *IJCAI*, *ICML* *ICLR* and *NeurIPS*.
 
 
-
-****
-###  News
-
 ****
 ###  Publications (Selected)
 
@@ -16,7 +12,15 @@ Hengcan Shi is an Associate Professor at *the College of Electrical and Informat
 
 >Drvideo: Document retrieval based long video understandings  
 >Ziyu Ma, Chenhui Gou, **Hengcan Shi**, Bin Sun, Shutao Li, Hamid Rezatofighi, Jianfei Cai   
->**CVPR** 2025 
+>**CVPR** 2025
+
+>NaME: A Natural Micro-expression Dataset for Micro-expression Recognition in the Wild   
+>Jiateng Liu, **Hengcan Shi**, Haiwen Liang, Xiaolin Xu, Yuan Zong, Yaonan Wang, Wenming Zheng   
+>**ACMMM** 2025
+
+>New Multiple Sclerosis Lesion Segmentation via Calibrated Inter-patch Blending   
+>Jin Ye, Son Duy Dao, Yicheng Wu, Yasmeen George, Thanh Nguyen-Duc, Daniel F Schmidt, Hengcan Shi, Winston Chong, Jianfei Cai   
+>**MICCAI** 2025
 
 >DifFUSER: Diffusion Model for Robust Multi-Sensor Fusion in 3D Object Detection and BEV Segmentation   
 >Duy-Tho Le, **Hengcan Shi**, Jianfei Cai, Hamid Rezatofighi   
@@ -44,7 +48,7 @@ Hengcan Shi is an Associate Professor at *the College of Electrical and Informat
 
 >Class Enhancement Losses with Pseudo Labels for Open-Vocabulary Semantic Segmentation   
 >**Hengcan Shi**, Munawar Hayat, Jianfei Cai  
->**ACM MM** 2023
+>**ACMMM** 2023
 
 >CoactSeg: Learning from Heterogeneous Data for New Multiple Sclerosis Lesion Segmentation  
 >Yicheng Wu, Zhonghua Wu, **Hengcan Shi**, Bjoern Picker, Winston Chong, Jianfei Cai   
@@ -80,7 +84,7 @@ Hengcan Shi is an Associate Professor at *the College of Electrical and Informat
 
 >Boosting scene parsing performance via reliable scale prediction  
 >**H Shi**, H Li, Q Wu, F Meng, KN Ngan   
->**ACM MM** 2018 (**Oral**)
+>**ACMMM** 2018 (**Oral**)
  
 >Key-word-aware network for referring expression image segmentation  
 >**H Shi**, H Li, F Meng, Q Wu  
