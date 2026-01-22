@@ -131,4 +131,5 @@ His research interests include Image Segmentation, Object Detection, Vision+Lang
 * IEEE TIE
 * IEEE TNNLS
 * Pattern Recognition
+* ISPRS
 
