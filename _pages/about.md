@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
---Building...
+--<font color=red>Building...</font>
 
 # 📖 About Me
 Hengcan Shi (石恒璨) is a Professor at *the School of Artificial Intelligence and Robotics*, *Hunan University*. Before that, he was an Associate Professor at *the College of Electrical and Information Engineering*, *Hunan University*, a Research Fellow at *the Department of Data Science & AI*, *Monash University*, and a Senior Researcher at *Tencent*. He received his Ph.D. degree in computer vision from *University of Electronic Science and Technology of China* in 2019. He has served as reviewer for *IEEE TPAMI*, *IJCV*, *IEEE TIP*, *TMM*, *TCSVT*, *TIE*, *PR* and *ISPRS*. He was the Web Chair, Area Chair and PC member of *ACMMM*, *CVPR*, *ICCV*, *ECCV*, *AAAI*, *IJCAI*, *ICML*, *ICLR* and *NeurIPS*.
@@ -157,6 +157,17 @@ IEEE TMM 2023
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2023</div><img src='images/2023_Neurocomputing.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Unpaired referring expression grounding via bidirectional cross-modal matching**](https://www.sciencedirect.com/science/article/abs/pii/S0925231222013686)
+
+**Hengcan Shi**, Munawar Hayat, Jianfei Cai  
+
+Neurocomputing 2023
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2023</div><img src='images/2023_MICCAI_CoactSeg.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -168,10 +179,74 @@ MICCAI 2023
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/2022_CVPR_ProposalCLIP.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Proposalclip: Unsupervised open-category object proposal generation via exploiting clip cues**](https://openaccess.thecvf.com/content/CVPR2022/html/Shi_ProposalCLIP_Unsupervised_Open-Category_Object_Proposal_Generation_via_Exploiting_CLIP_Cues_CVPR_2022_paper.html)
+
+**Hengcan Shi**, Munawar Hayat, Yicheng Wu, Jianfei Cai 
+
+CVPR 2022
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2022</div><img src='images/2022_RAL_PiFeNet.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Accurate and real-time 3D pedestrian detection using an efficient attentive pillar network**](https://arxiv.org/pdf/2112.15458)
+
+Duy Tho Le, **Hengcan Shi**, Hamid Rezatofighi, Jianfei Cai 
+
+IEEE RA-L 2022
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2021</div><img src='images/2021_SIGIR_MRCMV.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Deep music retrieval for fine-grained videos by exploiting cross-modal-encoded voice-overs**](https://dl.acm.org/doi/pdf/10.1145/3404835.3462993)
+
+Tingtian Li, Zixun Sun, Haoruo Zhang, Jin Li, Ziming Wu, Hui Zhan, Yipeng Yu, **Hengcan Shi**  
+
+SIGIR 2021
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2020</div><img src='images/2020_CVPR_Bin.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Offset bin classification network for accurate object detection**](https://openaccess.thecvf.com/content_CVPR_2020/html/Qiu_Offset_Bin_Classification_Network_for_Accurate_Object_Detection_CVPR_2020_paper.html)
+
+Heqian Qiu, Hongliang Li, Qingbo Wu, **Hengcan Shi** 
+
+CVPR 2020
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2020</div><img src='images/2020_ACMMM_HRRN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Language-aware fine-grained object representation for referring expression comprehension**](https://dl.acm.org/doi/pdf/10.1145/3394171.3413850)
+
+Heqian Qiu, Hongliang Li, Qingbo Wu, Fanman Meng, **Hengcan Shi**, Taijin Zhao, King Ngi Ngan
+
+ACMMM 2020
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2020</div><img src='images/2020_TMM_QRN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Query reconstruction network for referring expression image segmentation**](https://ieeexplore.ieee.org/abstract/document/9082867)
+
+**Hengcan Shi**, Hongliang Li, Qingbo Wu, King Ngi Ngan
+
+IEEE TMM 2020
+</div>
+</div>
 
 
-
-# 🎖 Honors and Awards
+# 🎖 Selected Honors and Awards
 - *2025*: Distinguished Breakthrough Award in ACMMM 2025 AVI Challenge
 - *2025*: Best paper Award in IEEE AIHCIR 2025
 - *2021*: Excellent Doctoral Dissertation Award in CSIG
