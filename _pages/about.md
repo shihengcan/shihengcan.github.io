@@ -21,7 +21,7 @@ redirect_from:
 --<font color=red>Building...</font>
 
 # 📖 About Me
-Hengcan Shi (石恒璨) is a Professor at *the School of Artificial Intelligence and Robotics*, *Hunan University*. Before that, he was an Associate Professor at *the College of Electrical and Information Engineering*, *Hunan University*, a Research Fellow at *the Department of Data Science & AI*, *Monash University*, and a Senior Researcher at *Tencent*. He received his Ph.D. degree in computer vision from *University of Electronic Science and Technology of China* in 2019. He has served as reviewer for *IEEE TPAMI*, *IJCV*, *IEEE TIP*, *TMM*, *TCSVT*, *TIE*, *PR* and *ISPRS*. He was the Web Chair, Area Chair and PC member of *ACMMM*, *CVPR*, *ICCV*, *ECCV*, *AAAI*, *IJCAI*, *ICML*, *ICLR* and *NeurIPS*.
+Hengcan Shi (石恒璨) is a Professor at *the School of Artificial Intelligence and Robotics*, *Hunan University*. Before that, he was a Research Fellow at *the Department of Data Science & AI*, *Monash University*, and a Senior Researcher at *Tencent*. He received his Ph.D. degree in computer vision from *University of Electronic Science and Technology of China* in 2019. He has served as reviewer for *IEEE TPAMI*, *IJCV*, *IEEE TIP*, *TMM*, *TCSVT*, *TIE*, *PR* and *ISPRS*. He was the Web Chair, Area Chair and PC member of *ACMMM*, *CVPR*, *ICCV*, *ECCV*, *AAAI*, *IJCAI*, *ICML*, *ICLR* and *NeurIPS*.
 
 His research interests include Large Model, Image Segmentation/Detection, Vision+Language, and Affective Computing. 
 
@@ -65,7 +65,7 @@ CVPR 2024, [Project](https://jrdb.erc.monash.edu/)
 
 **Hengcan Shi**, Son Duy Dao, Jianfei Cai
 
-IJCV 2025
+IJCV 2025 **Highly Cited**
 </div>
 </div>
 
@@ -109,7 +109,7 @@ ECCV 2024
 
 **Hengcan Shi**, Munawar Hayat, Jianfei Cai  
 
-IEEE TMM 2024
+IEEE TMM 2024 **Highly Cited**
 </div>
 </div>
 
@@ -184,9 +184,9 @@ MICCAI 2023
 
 [**Proposalclip: Unsupervised open-category object proposal generation via exploiting clip cues**](https://openaccess.thecvf.com/content/CVPR2022/html/Shi_ProposalCLIP_Unsupervised_Open-Category_Object_Proposal_Generation_via_Exploiting_CLIP_Cues_CVPR_2022_paper.html)
 
-**Hengcan Shi**, Munawar Hayat, Yicheng Wu, Jianfei Cai 
+**Hengcan Shi**, Munawar Hayat, Yicheng Wu, Jianfei Cai
 
-CVPR 2022
+CVPR 2022 **Highly Cited**
 </div>
 </div>
 
@@ -274,7 +274,40 @@ CVPR 2019
 
 Heqian Qiu, Hongliang Li, Qingbo Wu, Fanman Meng, King Ngi Ngan, **Hengcan Shi**
 
-Remote Sensing 2019
+Remote Sensing 2019 **Highly Cited**
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2018</div><img src='images/2018_TMM_HPN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Hierarchical Parsing Net: Semantic Scene Parsing From Global Scene to Objects**](https://ieeexplore.ieee.org/abstract/document/8306891)
+
+**Hengcan Shi**, Hongliang Li, Fanman Meng, Qingbo Wu
+
+IEEE TMM 2018
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2018</div><img src='images/2018_ACMMM_SPNet.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Boosting Scene Parsing Performance via Reliable Scale Prediction**](https://dl.acm.org/doi/abs/10.1145/3240508.3240657)
+
+**Hengcan Shi**, Hongliang Li, Qingbo Wu, Fanman Meng, King N Ngan
+
+ACMMM 2020 **Oral**
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2018</div><img src='images/2018_ECCV_KWAN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**BKey-word-aware network for referring expression image segmentation**](https://openaccess.thecvf.com/content_ECCV_2018/html/Hengcan_Shi_Key-Word-Aware_Network_for_ECCV_2018_paper.html)
+
+**Hengcan Shi**, Hongliang Li, Fanman Meng, Qingbo Wu
+
+ECCV 2018 **Highly Cited**
 </div>
 </div>
 
