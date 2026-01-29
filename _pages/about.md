@@ -19,14 +19,15 @@ redirect_from:
 
 
 # 📖 About Me
-Hengcan Shi (石恒璨) is a Professor at *the School of Artificial Intelligence and Robotics*, *Hunan University*. Before that, he was an Associate Professor at *the College of Electrical and Information Engineering*, *Hunan University*, a Research Fellow at *the Department of Data Science & AI*, *Monash University*, and a Senior Researcher at *Tencent*. He received his Ph.D. degree in computer vision from *University of Electronic Science and Technology of China* in 2019.
+Hengcan Shi (石恒璨) is a Professor at *the School of Artificial Intelligence and Robotics*, *Hunan University*. Before that, he was an Associate Professor at *the College of Electrical and Information Engineering*, *Hunan University*, a Research Fellow at *the Department of Data Science & AI*, *Monash University*, and a Senior Researcher at *Tencent*. He received his Ph.D. degree in computer vision from *University of Electronic Science and Technology of China* in 2019. He has served as reviewer for *IEEE TPAMI*, *IJCV*, *IEEE TIP*, *TMM*, *TCSVT* and *TIE*. He was the Web Chair, Area Chair and PC member of *ACMMM*, *CVPR*, *ICCV*, *ECCV*, *AAAI*, *IJCAI*, *ICML* *ICLR* and *NeurIPS*.
 
-His research interests include Image Segmentation, Object Detection, Vision+Language and Large Model. He has served as reviewer for *IEEE TPAMI*, *IJCV*, *IEEE TIP*, *TMM*, *TCSVT* and *TIE*. He was the Web Chair, Area Chair and PC member of *ACMMM*, *CVPR*, *ICCV*, *ECCV*, *AAAI*, *IJCAI*, *ICML* *ICLR* and *NeurIPS*.
+His research interests include Image Segmentation, Object Detection, Vision+Language and Large Model. 
 
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 Professor at Hunan University. 
-
+- *2025.12*: &nbsp;🎉🎉 One paper has accepted by IEEE TCSVT. 
+- *2025.11*: &nbsp;🎉🎉 Best paper award in IEEE AIHCIR 2025. 
 
 # 📝 Selected Publications 
 ## Dataset and Benchmark
