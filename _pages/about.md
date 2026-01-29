@@ -21,11 +21,10 @@ redirect_from:
 # 📖 About Me
 Hengcan Shi (石恒璨) is a Professor at *the School of Artificial Intelligence and Robotics*, *Hunan University*. Before that, he was an Associate Professor at *the College of Electrical and Information Engineering*, *Hunan University*, a Research Fellow at *the Department of Data Science & AI*, *Monash University*, and a Senior Researcher at *Tencent*. He received his Ph.D. degree in computer vision from *University of Electronic Science and Technology of China* in 2019. He has served as reviewer for *IEEE TPAMI*, *IJCV*, *IEEE TIP*, *TMM*, *TCSVT* and *TIE*. He was the Web Chair, Area Chair and PC member of *ACMMM*, *CVPR*, *ICCV*, *ECCV*, *AAAI*, *IJCAI*, *ICML* *ICLR* and *NeurIPS*.
 
-His research interests include Image Segmentation, Object Detection, Vision+Language and Large Model. 
+His research interests include Large Model, Image Segmentation/Detection, Vision+Language, and Affective Computing. 
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 Professor at Hunan University. 
 - *2025.12*: &nbsp;🎉🎉 One paper has accepted by IEEE TCSVT. 
 - *2025.11*: &nbsp;🎉🎉 Best paper award in IEEE AIHCIR 2025. 
 
@@ -112,7 +111,7 @@ IEEE TMM 2024
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/2023_CVPR_TSG.jpg.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/2023_CVPR_TSG.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Transformer scale gate for semantic segmentation**](https://openaccess.thecvf.com/content/CVPR2023/html/Shi_Transformer_Scale_Gate_for_Semantic_Segmentation_CVPR_2023_paper.html)
@@ -123,6 +122,43 @@ CVPR 2023
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2023</div><img src='images/2023_ACMMM_SGDN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Open-vocabulary object detection via scene graph discovery**](https://dl.acm.org/doi/pdf/10.1145/3581783.3612407)
+
+**Hengcan Shi**, Munawar Hayat, Jianfei Cai  
+
+ACMMM 2023
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/2023_TMM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Class Enhancement Losses with Pseudo Labels for Open-Vocabulary Semantic Segmentation**](https://ieeexplore.ieee.org/abstract/document/10306291/)
+
+Son D Dao, **Hengcan Shi**, Dinh Phung, Jianfei Cai
+
+IEEE TMM 2023
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2023</div><img src='images/2023_MICCAI_CoactSeg.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Coactseg: Learning from heterogeneous data for new multiple sclerosis lesion segmentation**](https://arxiv.org/pdf/2307.04513)
+
+Yicheng Wu, Zhonghua Wu, **Hengcan Shi**, Bjoern Picker, Winston Chong, Jianfei Cai 
+
+MICCAI 2023
+</div>
+</div>
+
+
 
 # 🎖 Honors and Awards
-- Building
+- *2025*: Distinguished Breakthrough Award in ACMMM 2025 AVI Challenge
+- *2025*: Best paper Award in IEEE AIHCIR 2025
+- *2021*: Excellent Doctoral Dissertation Award in CSIG
+- *2019*: The First Price in NSFC Remote Sensing Image Segmentation Challenge
