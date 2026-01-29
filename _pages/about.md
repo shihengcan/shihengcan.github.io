@@ -30,7 +30,7 @@ His research interests include Image Segmentation, Object Detection, Vision+Lang
 - *2025.11*: &nbsp;🎉🎉 Best paper award in IEEE AIHCIR 2025. 
 
 # 📝 Selected Publications 
-## Dataset and Benchmark
+## Datasets and Benchmarks
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/2025_ACMMM_NaME.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -55,7 +55,7 @@ CVPR 2024, [Project](https://jrdb.erc.monash.edu/)
 </div>
 
 
-## Algorithm
+## Algorithms
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/2025_IJCV_LLMFormer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -79,8 +79,6 @@ CVPR 2025
 </div>
 </div>
 
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/2025_MICCAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -103,6 +101,27 @@ ECCV 2024
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2024</div><img src='images/2024_TMM_UOVN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Unified open-vocabulary dense visual prediction**](https://ieeexplore.ieee.org/abstract/document/10480273)
+
+**Hengcan Shi**, Munawar Hayat, Jianfei Cai  
+
+IEEE TMM 2024
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/2023_CVPR_TSG.jpg.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Transformer scale gate for semantic segmentation**](https://openaccess.thecvf.com/content/CVPR2023/html/Shi_Transformer_Scale_Gate_for_Semantic_Segmentation_CVPR_2023_paper.html)
+
+**Hengcan Shi**, Munawar Hayat, Jianfei Cai  
+
+CVPR 2023
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
