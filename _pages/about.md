@@ -18,8 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
+--Building...
+
 # 📖 About Me
-Hengcan Shi (石恒璨) is a Professor at *the School of Artificial Intelligence and Robotics*, *Hunan University*. Before that, he was an Associate Professor at *the College of Electrical and Information Engineering*, *Hunan University*, a Research Fellow at *the Department of Data Science & AI*, *Monash University*, and a Senior Researcher at *Tencent*. He received his Ph.D. degree in computer vision from *University of Electronic Science and Technology of China* in 2019. He has served as reviewer for *IEEE TPAMI*, *IJCV*, *IEEE TIP*, *TMM*, *TCSVT* and *TIE*. He was the Web Chair, Area Chair and PC member of *ACMMM*, *CVPR*, *ICCV*, *ECCV*, *AAAI*, *IJCAI*, *ICML* *ICLR* and *NeurIPS*.
+Hengcan Shi (石恒璨) is a Professor at *the School of Artificial Intelligence and Robotics*, *Hunan University*. Before that, he was an Associate Professor at *the College of Electrical and Information Engineering*, *Hunan University*, a Research Fellow at *the Department of Data Science & AI*, *Monash University*, and a Senior Researcher at *Tencent*. He received his Ph.D. degree in computer vision from *University of Electronic Science and Technology of China* in 2019. He has served as reviewer for *IEEE TPAMI*, *IJCV*, *IEEE TIP*, *TMM*, *TCSVT*, *TIE*, *PR* and *ISPRS*. He was the Web Chair, Area Chair and PC member of *ACMMM*, *CVPR*, *ICCV*, *ECCV*, *AAAI*, *IJCAI*, *ICML*, *ICLR* and *NeurIPS*.
 
 His research interests include Large Model, Image Segmentation/Detection, Vision+Language, and Affective Computing. 
 
@@ -78,7 +80,7 @@ CVPR 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/2025_MICCAI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/2025_MICCAI_CIB.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**New Multiple Sclerosis Lesion Segmentation via Calibrated Inter-patch Blending**](https://papers.miccai.org/miccai-2025/paper/0702_paper.pdf)
@@ -111,6 +113,17 @@ IEEE TMM 2024
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2024</div><img src='images/2024_ACMTOMM_Bin.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Learning offset probability distribution for accurate object detection**](https://dl.acm.org/doi/pdf/10.1145/3637214)
+
+Heqian Qiu, Hongliang Li, Qingbo Wu, **Hengcan Shi**, Lanxiao Wang, Fanman Meng, Linfeng Xu
+
+ACM TOMM 2024
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/2023_CVPR_TSG.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -133,7 +146,7 @@ ACMMM 2023
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/2023_TMM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/2023_TMM_CEL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Class Enhancement Losses with Pseudo Labels for Open-Vocabulary Semantic Segmentation**](https://ieeexplore.ieee.org/abstract/document/10306291/)
@@ -154,6 +167,7 @@ Yicheng Wu, Zhonghua Wu, **Hengcan Shi**, Bjoern Picker, Winston Chong, Jianfei 
 MICCAI 2023
 </div>
 </div>
+
 
 
 
