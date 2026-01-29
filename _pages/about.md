@@ -245,6 +245,39 @@ IEEE TMM 2020
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2020</div><img src='images/2020_TMM_HCE.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Hierarchical context features embedding for object detection**](https://ieeexplore.ieee.org/abstract/document/8979187)
+
+Heqian Qiu, Hongliang Li, Qingbo Wu, Fanman Meng, Linfeng Xu, King Ngi Ngan, **Hengcan Shi**
+
+IEEE TMM 2020
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2019</div><img src='images/2019_CVPR_ICM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Scene Parsing via Integrated Classification Model and Variance-Based Regularization**](https://openaccess.thecvf.com/content_CVPR_2019/html/Shi_Scene_Parsing_via_Integrated_Classification_Model_and_Variance-Based_Regularization_CVPR_2019_paper.html)
+
+**Hengcan Shi**, Hongliang Li, Qingbo Wu, Zichen Song
+
+CVPR 2019
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sensing 2019</div><img src='images/2019_Remote_A2RMNet.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**A2RMNet: Adaptively Aspect Ratio Multi-Scale Network for Object Detection in Remote Sensing Images**](https://www.mdpi.com/2072-4292/11/13/1594)
+
+Heqian Qiu, Hongliang Li, Qingbo Wu, Fanman Meng, King Ngi Ngan, **Hengcan Shi**
+
+Remote Sensing 2019
+</div>
+</div>
+
 
 # 🎖 Selected Honors and Awards
 - *2025*: Distinguished Breakthrough Award in ACMMM 2025 AVI Challenge
