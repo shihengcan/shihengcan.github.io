@@ -92,7 +92,7 @@ MICCAI 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/2024_ECCV_DifFUSER.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/2024_ECCV_DifFUSER.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Diffusion Model for Robust Multi-Sensor Fusion in 3D Object Detection and BEV Segmentation**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08562.pdf)
