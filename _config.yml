@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hengcan Shi"
-description              : "Hengcan Shi - Homepage"
+description              : "Professor<br>Hunan University"
 repository               : "shihengcan/shihengcan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,10 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Hengcan Shi (石恒璨)"
-  avatar           : "images/hengcan.png"
-  bio              : "Professor as Hunan University. /n Email: shihengcan AT gmail DOT com"
+  avatar           : "images/android-chrome-512x512.png"
+  bio              : "Email: shihengcan AT gmail DOT com"
   location         : "Hunan, China"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : 
