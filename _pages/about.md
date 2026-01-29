@@ -23,7 +23,7 @@ Hengcan Shi (石恒璨) is a Professor at *the School of Artificial Intelligence
 
 His research interests include Large Model, Image Segmentation/Detection, Vision+Language, and Affective Computing. 
 
-Email: shihengcan AT gmail DOT com
+💻 Email: shihengcan AT gmail DOT com
 
 
 
@@ -313,9 +313,14 @@ ECCV 2018, <font color=red>**Highly Cited**</font>
 </div>
 </div>
 
+# 📖 Academic Services
+ - Building...
 
 # 🎖 Selected Honors and Awards
 - *2025*: Distinguished Breakthrough Award in ACMMM 2025 AVI Challenge
 - *2025*: Best paper Award in IEEE AIHCIR 2025
 - *2021*: Excellent Doctoral Dissertation Award in CSIG
 - *2019*: The First Price in NSFC Remote Sensing Image Segmentation Challenge
+
+# 💬 Invited Talks
+ - Building...
