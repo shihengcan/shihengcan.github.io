@@ -28,7 +28,8 @@ His research interests include Large Model, Image Segmentation/Detection, Vision
 
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 One paper has accepted by IEEE TCSVT. 
-- *2025.11*: &nbsp;🎉🎉 Best paper award in IEEE AIHCIR 2025. 
+- *2025.11*: &nbsp;🎉🎉 <font color=red>Best paper award</font> in IEEE AIHCIR 2025. 
+
 
 # 📝 Selected Publications 
 ## Datasets and Benchmarks
@@ -65,7 +66,7 @@ CVPR 2024, [Project](https://jrdb.erc.monash.edu/)
 
 **Hengcan Shi**, Son Duy Dao, Jianfei Cai
 
-IJCV 2025 **Highly Cited**
+IJCV 2025
 </div>
 </div>
 
@@ -109,7 +110,7 @@ ECCV 2024
 
 **Hengcan Shi**, Munawar Hayat, Jianfei Cai  
 
-IEEE TMM 2024 **Highly Cited**
+IEEE TMM 2024
 </div>
 </div>
 
@@ -186,7 +187,7 @@ MICCAI 2023
 
 **Hengcan Shi**, Munawar Hayat, Yicheng Wu, Jianfei Cai
 
-CVPR 2022 **Highly Cited**
+CVPR 2022
 </div>
 </div>
 
@@ -274,7 +275,7 @@ CVPR 2019
 
 Heqian Qiu, Hongliang Li, Qingbo Wu, Fanman Meng, King Ngi Ngan, **Hengcan Shi**
 
-Remote Sensing 2019 **Highly Cited**
+Remote Sensing 2019, <font color=red>**Highly Cited**</font>
 </div>
 </div>
 
@@ -296,7 +297,7 @@ IEEE TMM 2018
 
 **Hengcan Shi**, Hongliang Li, Qingbo Wu, Fanman Meng, King N Ngan
 
-ACMMM 2020 **Oral**
+ACMMM 2020, <font color=red>**Oral**</font>
 </div>
 </div>
 
@@ -307,7 +308,7 @@ ACMMM 2020 **Oral**
 
 **Hengcan Shi**, Hongliang Li, Fanman Meng, Qingbo Wu
 
-ECCV 2018 **Highly Cited**
+ECCV 2018, <font color=red>**Highly Cited**</font>
 </div>
 </div>
 
