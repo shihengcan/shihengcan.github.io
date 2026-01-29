@@ -16,39 +16,39 @@ google_analytics_id      :  # get google_analytics_id from https://analytics.goo
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   : # get bing_site_verification from https://www.bing.com/webmasters/about
+bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
   name             : "Hengcan Shi (石恒璨)"
   avatar           : "images/hengcan.png"
-  bio              : "Professor as Hunan University. Email: shihengcan AT gmail DOT com"
+  bio              : "Professor as Hunan University. /n Email: shihengcan AT gmail DOT com"
   location         : "Hunan, China"
-  employer         : 
+  employer         :
   pubmed           : 
   googlescholar    : 
   email            : 
-  researchgate     : 
-  uri              : 
+  researchgate     :  
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : 
+  orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : 
