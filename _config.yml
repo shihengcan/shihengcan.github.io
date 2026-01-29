@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hengcan Shi (石恒璨)"
+  name             : "Hengcan Shi <br> 石恒璨"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Email: shihengcan AT gmail DOT com"
+  bio              : 
   location         : "Hunan, China"
-  employer         : 
+  employer         : "Email: <br>shihengcan AT gmail DOT com"
   pubmed           : 
   googlescholar    : 
   email            : 

@@ -28,7 +28,7 @@ His research interests include Image Segmentation, Object Detection, Vision+Lang
 - *2026.01*: &nbsp;🎉🎉 Professor at Hunan University. 
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/2025_IJCV_LLMFormer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -61,5 +61,17 @@ Jiateng Liu, **Hengcan Shi**, Haiwen Liang, Xiaolin Xu, Yuan Zong, Yaonan Wang, 
 ACMMM 2025
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/2025_MICCAI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**New Multiple Sclerosis Lesion Segmentation via Calibrated Inter-patch Blending**](https://papers.miccai.org/miccai-2025/paper/0702_paper.pdf)
+
+Jin Ye, Son Duy Dao, Yicheng Wu, Yasmeen George, Thanh Nguyen-Duc, Daniel F Schmidt, **Hengcan Shi**, Winston Chong, Jianfei Cai  
+
+MICCAI 2025
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
