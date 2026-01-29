@@ -29,15 +29,36 @@ His research interests include Image Segmentation, Object Detection, Vision+Lang
 
 
 # 📝 Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/2025_IJCV_LLMFormer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LLMFormer: Large LanguageModel for Open-Vocabulary Semantic Segmentation]
+[**LLMFormer: Large LanguageModel for Open-Vocabulary Semantic Segmentation**](https://link.springer.com/article/10.1007/s11263-024-02171-y)
 
 **Hengcan Shi**, Son Duy Dao, Jianfei Cai
 
-** IJCV 2025 **
+IJCV 2025
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/2025_CVPR_DrVideo.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Drvideo: Document retrieval based long video understandings**](https://openaccess.thecvf.com/content/CVPR2025/html/Ma_DrVideo_Document_Retrieval_Based_Long_Video_Understanding_CVPR_2025_paper.html)
+
+Ziyu Ma, Chenhui Gou, **Hengcan Shi**, Bin Sun, Shutao Li, Hamid Rezatofighi, Jianfei Cai  
+
+CVPR 2025
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/2025_ACMMM_NaME.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**NaME: A Natural Micro-expression Dataset for Micro-expression Recognition in the Wild**](https://dl.acm.org/doi/pdf/10.1145/3746027.3755095)
+
+Jiateng Liu, **Hengcan Shi**, Haiwen Liang, Xiaolin Xu, Yuan Zong, Yaonan Wang, Wenming Zheng  
+
+ACMMM 2025
 </div>
 </div>
 
