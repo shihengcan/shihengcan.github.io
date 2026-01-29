@@ -276,7 +276,7 @@ CVPR 2019
 
 Heqian Qiu, Hongliang Li, Qingbo Wu, Fanman Meng, King Ngi Ngan, **Hengcan Shi**
 
-Remote Sensing 2019, <font color=red>**Highly Cited**</font>
+Remote Sensing 2019, <font color=red>Highly Cited</font>
 </div>
 </div>
 
@@ -298,18 +298,18 @@ IEEE TMM 2018
 
 **Hengcan Shi**, Hongliang Li, Qingbo Wu, Fanman Meng, King N Ngan
 
-ACMMM 2020, <font color=red>**Oral**</font>
+ACMMM 2020, <font color=red>Oral</font>
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2018</div><img src='images/2018_ECCV_KWAN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**BKey-word-aware network for referring expression image segmentation**](https://openaccess.thecvf.com/content_ECCV_2018/html/Hengcan_Shi_Key-Word-Aware_Network_for_ECCV_2018_paper.html)
+[**Key-word-aware network for referring expression image segmentation**](https://openaccess.thecvf.com/content_ECCV_2018/html/Hengcan_Shi_Key-Word-Aware_Network_for_ECCV_2018_paper.html)
 
 **Hengcan Shi**, Hongliang Li, Fanman Meng, Qingbo Wu
 
-ECCV 2018, <font color=red>**Highly Cited**</font>
+ECCV 2018, <font color=red>Highly Cited</font>
 </div>
 </div>
 
