@@ -60,6 +60,18 @@ CVPR 2024, [Project](https://jrdb.erc.monash.edu/)
 
 ## Algorithms
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2026</div><img src='images/2026_PR_FPS.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**FPS: Frequency Prompt Synchronization for Micro-expression Recognition**](https://www.sciencedirect.com/science/article/pii/S0031320326005388)
+
+Jiateng Liu, **Hengcan Shi**, Yaonan Wang, Wenming Zheng
+
+PR 2025
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/2025_IJCV_LLMFormer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
