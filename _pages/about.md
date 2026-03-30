@@ -79,7 +79,7 @@ PR 2025
 
 **Hengcan Shi**, Son Duy Dao, Jianfei Cai
 
-IJCV 2025
+IJCV 2025, <font color=red>Highly Cited</font>
 </div>
 </div>
 
@@ -123,7 +123,7 @@ ECCV 2024
 
 **Hengcan Shi**, Munawar Hayat, Jianfei Cai  
 
-IEEE TMM 2024
+IEEE TMM 2024, <font color=red>Highly Cited</font>
 </div>
 </div>
 
@@ -200,7 +200,7 @@ MICCAI 2023
 
 **Hengcan Shi**, Munawar Hayat, Yicheng Wu, Jianfei Cai
 
-CVPR 2022
+CVPR 2022, <font color=red>Highly Cited</font>
 </div>
 </div>
 
