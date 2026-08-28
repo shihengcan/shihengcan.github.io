@@ -28,8 +28,7 @@ His research interests include Large Model, Image Segmentation/Detection, Vision
 
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉🎉 One paper has accepted by IEEE TCSVT. 
-- *2025.11*: &nbsp;🎉🎉 Best paper award in IEEE AIHCIR 2025. 
+- building
 
 
 # 📝 Selected Publications 
@@ -58,8 +57,34 @@ CVPR 2024, [Project](https://jrdb.erc.monash.edu/)
 </div>
 
 
+## Reviews
+---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VINT 2026</div><img src='images/2026_VINT_Robot.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Intelligent robot systems: a survey from the perspective of visual intelligence**](https://link.springer.com/article/10.1007/s44267-026-00116-2)
+
+**Hengcan Shi**, Wen Liu, Zheng Li, Xinpu Fang, Xiangfeng Meng, Weixing Peng, Hang Zhong, Min Liu, Yaonan Wang
+VINT 2026
+</div>
+</div>
+
+
 ## Algorithms
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAFFC 2026</div><img src='images/2026_TAFFC_UGPT.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**UGPT: Uncertain Graph Prompt Tuning for Micro-expression Recognition**](https://ieeexplore.ieee.org/abstract/document/11592488)
+
+Jiateng Liu, **Hengcan Shi**,  Feng Chen, Min Liu, Yaonan Wang, Wenming Zheng
+TAFFC 2026
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2026</div><img src='images/2026_PR_FPS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -67,7 +92,7 @@ CVPR 2024, [Project](https://jrdb.erc.monash.edu/)
 
 Jiateng Liu, **Hengcan Shi**, Yaonan Wang, Wenming Zheng
 
-PR 2025
+PR 2026
 </div>
 </div>
 
